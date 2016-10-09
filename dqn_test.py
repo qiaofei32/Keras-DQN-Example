@@ -2,7 +2,7 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 from keras.models import model_from_json
-from qlearn import Catch
+from dqn_train import Catch
 
 
 if __name__ == "__main__":
