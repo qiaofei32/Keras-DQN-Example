@@ -109,7 +109,7 @@ class ExperienceReplay(object):
 
 if __name__ == "__main__":
     # parameters
-    epsilon = .1  # exploration
+    epsilon = .1     # exploration
     num_actions = 3  # [move_left, stay, move_right]
     epoch = 1000
     max_memory = 500
